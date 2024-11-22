@@ -1,1 +1,35 @@
+## 6. Linguagem Python Nível Introdutório - Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+- Introdução
+- Solução do Lab 2 - Calculadora em Linguagem Python
+- Manipulação de Arquivos em Python - Parte 1/5
+- Manipulação de Arquivos em Python - Parte 2/5
+- Manipulação de Arquivos em Python - Parte 3/5
+- Manipulação de Arquivos em Python - Parte 4/5
+- Manipulação de Arquivos em Python - Parte 5/5
+- Manipulando Arquivos TXT em Python com o Pacote OS
+- Manipulando Arquivos TXT em Python com a Expressão WITH
+- Manipulando Arquivos CSV em Python com Pacote CSV
+- Manipulando Arquivos JSON em Python com Pacote JSON
+- Manipulando Arquivos JSON em Python e Extração de Arquivo da Web
+- Pacotes e Módulos em Python - Parte 1/2
+- Pacotes e Módulos em Python - Parte 2/2
+- Função Map em Python
+- Função Reduce em Python
+- Função Filter em Python
+- Função Zip em Python
+- Função Enumerate em Python
+- Tratamento de Erros e Exceções em Python - Parte 1/2
+- Tratamento de Erros e Exceções em Python - Parte 2/2
+- Lab 3 - Trabalhando com Expressões Regulares em Python com ChatGPT
+- Lab 3 - Expressões Regulares em Python - Parte 1/2
+- Lab 3 - Expressões Regulares em Python - Parte 2/2
+- Lab 3 - Usando ChatGPT Para Filtrar Caracteres e Palavras em Texto com Expressões Regulares em Python
+- Lab 3 - Cuidados ao Usar o ChatGPT com Python
+- Lab 3 - Usando ChatGPT Para Filtrar Pontuação e Acentos em Texto com Expressões Regulares em Python
+- Codificação de Arquivos
+- Lista de Exercícios
+- Arquivos do Capítulo
+- Quiz (10 questões)
+- Bibliografia, Referências e Links Úteis
 
+---
